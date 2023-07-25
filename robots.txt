@@ -1,0 +1,4 @@
+Sitemap: https://www.varadmathur.in/sitemap.txt
+
+User-agent: *
+Disallow:
